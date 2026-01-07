@@ -1,0 +1,6 @@
+{
+  "name": "my-first-repo",
+  "version": "1.0.0",
+  "description": "Learning Git",
+  "main": "index.js"
+}
