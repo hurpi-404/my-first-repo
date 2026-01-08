@@ -1,6 +1,12 @@
 {
-  "name": "my-first-repo",
+  "name": "docker-demo",
   "version": "1.0.0",
-  "description": "Learning Git",
-  "main": "index.js"
+  "description": "Docker example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  }
 }
