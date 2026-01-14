@@ -1,2 +1,2 @@
-# My First Repo
+# mY projeeect
 This is a project for learning Git basics.
